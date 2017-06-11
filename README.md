@@ -12,6 +12,11 @@ Requires :
 * pycrypto lib
 
 
+## Using Jaccess
+
+Launch it in a terminal. It will print our your Jaxx private seed.
+
+
 License :
 ----------
 
