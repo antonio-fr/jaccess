@@ -1,7 +1,7 @@
   Jaccess
 ===========
 
-JSBW is python script that readq Jaxx private seed mnemonic in Windows, Linux and MacOS 
+JSBW is python script that reads Jaxx private seed mnemonic in Windows, Linux and MacOS 
 
 
 ## Dependencies
@@ -10,19 +10,6 @@ Requires :
 
 * Python 2.7 (not tested on v3)
 * pycrypto lib
-* qrcode
-
-
-## Using JSBW
-
-Launch it in a terminal. It will print our your Jaxx private seed.
-
-
-## ToDo
-
-* Use multiple OP_RETURN to write longer strings
-* Adjust Fees, needed in case of multiple OP_RETURN
-* Improve UI for less austere
 
 
 License :
