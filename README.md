@@ -1,7 +1,7 @@
   Jaccess
 ===========
 
-JSBW is python script that reads Jaxx private seed mnemonic in Windows, Linux and MacOS 
+Jaccess is a python script that reads Jaxx private seed mnemonic in Windows, Linux and MacOS.
 
 
 ## Dependencies
